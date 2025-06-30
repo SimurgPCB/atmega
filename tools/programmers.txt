@@ -1,0 +1,20 @@
+
+arduinoasisp.name=Arduino as ISP
+arduinoasisp.communication=usb
+arduinoasisp.protocol=arduino
+
+arduinoisp.name=ArduinoISP
+arduinoisp.communication=usb
+arduinoisp.protocol=arduinoisp
+
+usbasp.name=USBasp
+usbasp.protocol=usbasp
+usbasp.communication=usb
+
+avrisp.name=AVR ISP
+avrisp.protocol=avrisp
+avrisp.communication=usb
+
+simurgisp.name=Simurg ISP
+simurgisp.communication=usb
+simurgisp.protocol=arduino
