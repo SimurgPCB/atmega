@@ -1,2 +1,0 @@
-name=Simurg Board
-version=1.0.0
