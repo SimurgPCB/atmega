@@ -1,0 +1,28 @@
+{
+  "packages": [
+    {
+      "name": "simurg",
+      "maintainer": "SimurgPCB",
+      "websiteURL": "https://github.com/SimurgPCB/atmega",
+      "platforms": [
+        {
+          "name": "Simurg Board",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://simurgpcb.github.io/atmega/downloads/simurg_rtc-1.0.0.tar.bz2",
+          "archiveFileName": "simurg_rtc-1.0.0.tar.bz2",
+          "checksum": "SHA-256:cbf83b08254da7ef8450a1ecac8aa56b36ba943b14612f4ecb039f01a57d3022",
+          "size": 1178,
+          "boards": [
+            {
+              "name": "Simurg_Ver_328"
+            }
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
