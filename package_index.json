@@ -12,8 +12,8 @@
           "category": "Contributed",
           "url": "https://simurgpcb.github.io/atmega/downloads/simurg_rtc-1.0.0.tar.bz2",
           "archiveFileName": "simurg_rtc-1.0.0.tar.bz2",
-          "checksum": "SHA-256:698c5136f1bdb2d406d1b55fa1318ef7685fa7da32b8b71035ae1e49b7bc54cc",
-          "size": 721,
+          "checksum": "SHA-256:763651cdb72fe7a963ed02082e163233420d7157bf5fbc824270610e10d3c197",
+          "size": 8704,
           "boards": [
             {
               "name": "Simurg_Ver_328"
