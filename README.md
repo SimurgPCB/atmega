@@ -1,1 +1,0 @@
-Bu, Simurg Board AVR çekirdeğidir.
