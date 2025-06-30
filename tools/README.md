@@ -1,1 +1,1 @@
-Bu tools klasörü AVR ISP + Simurg ISP içerir.
+Bu klasör Simurg Board için programlayıcıları içerir.
