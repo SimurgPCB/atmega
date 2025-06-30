@@ -1,4 +1,0 @@
-arduinoasisp.name=Arduino as ISP
-arduinoisp.name=ArduinoISP
-usbasp.name=USBasp
-parallel.name=Parallel Programmer

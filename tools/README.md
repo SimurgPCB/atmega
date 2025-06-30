@@ -1,1 +1,0 @@
-Bu klasör Simurg Board için programlayıcıları içerir.
